@@ -92,7 +92,7 @@ __omitted words:__  2
 
 ----------------
 
-[ある（日）](weblio](https://ejje.weblio.jp/content/%E3%81%82%E3%82%8B%EF%BC%88%E6%97%A5%EF%BC%89) : 【 】   
-[手を止める](weblio](https://ejje.weblio.jp/content/%E6%89%8B%E3%82%92%E6%AD%A2%E3%82%81%E3%82%8B) : 【 】   
+[ある（日）](https://ejje.weblio.jp/content/%E3%81%82%E3%82%8B%EF%BC%88%E6%97%A5%EF%BC%89) : 【 】   
+[手を止める](https://ejje.weblio.jp/content/%E6%89%8B%E3%82%92%E6%AD%A2%E3%82%81%E3%82%8B) : 【 】   
   
 
