@@ -1,13 +1,13 @@
 ### CMN 2.csv  
   
 
-きかん 【(交通）機関】   
+きかん 【機関】   
 おしゃべり    
 ときどき    
 にっこり    
 はっきり    
 まよう    
-ことにする 【～ことにする】   
+ことにする    
 このあいだ 【この間】   
 こうつうきかん 【交通機関】   
 えしゃく 【会釈】   
@@ -22,14 +22,15 @@
 みみにはいる 【耳に入る】   
 みつける 【見つける】   
 けんとうをつける 【見当をつける】   
-かよう 【通う】  
+かよう 【通う】   
+ 
 
 
 ----------------
 
 __discrete kanji in list:__ 23 
 
-通 交 機 見 関 利 当 動 間 横 入 用 先 便 進 耳 会 伝 宣 向 釈 気 方
+機 見 関 通 利 当 動 交 間 横 入 用 先 便 進 耳 会 伝 宣 向 釈 気 方
 
 ----------------
   
@@ -39,6 +40,7 @@ __Glossary:__
 __Core 6k +__  
 
 
+[機関](https://ejje.weblio.jp/content/%E6%A9%9F%E9%96%A2) : 【きかん】, (n), engine, agency  
 [この間](https://ejje.weblio.jp/content/%E3%81%93%E3%81%AE%E9%96%93) : 【このあいだ】, (n), the other day, recently  
 [便利](https://ejje.weblio.jp/content/%E4%BE%BF%E5%88%A9) : 【べんり】, (adj-na), convenience, handiness  
 [先](https://ejje.weblio.jp/content/%E5%85%88) : 【さき】, (n), ahead, first  
@@ -52,13 +54,12 @@ __Core 6k +__
 [おしゃべり](https://ejje.weblio.jp/content/%E3%81%8A%E3%81%97%E3%82%83%E3%81%B9%E3%82%8A) : 【おしゃべり】, (n, vs), chatter, talkative  
 [にっこり](https://ejje.weblio.jp/content/%E3%81%AB%E3%81%A3%E3%81%93%E3%82%8A) : 【にっこり】, (adv), smiling, grinning  
 [はっきり](https://ejje.weblio.jp/content/%E3%81%AF%E3%81%A3%E3%81%8D%E3%82%8A) : 【はっきり】, (adv), clearly  
-[(交通）機関](https://ejje.weblio.jp/content/%28%E4%BA%A4%E9%80%9A%EF%BC%89%E6%A9%9F%E9%96%A2) : 【（こうつう）きかん】, (n), (transport) system  
 [見当をつける](https://ejje.weblio.jp/content/%E8%A6%8B%E5%BD%93%E3%82%92%E3%81%A4%E3%81%91%E3%82%8B) : 【けんとうをつける】, (phrase), take aim at  
  
 
 __omitted words:__ 7  
 
-～ことにする, 交通機関, 会釈, 気が進まない, 耳に入る, ときどき, まよう 
+交通機関, 会釈, 気が進まない, 耳に入る, ときどき, まよう, ことにする 
 
 
 ----------------
@@ -72,15 +73,15 @@ __jmdict__
 [耳に入る](https://ejje.weblio.jp/content/%E8%80%B3%E3%81%AB%E5%85%A5%E3%82%8B) : 【みみにはいる】, (exp v5r), to reach one's ears  
 [時々](https://ejje.weblio.jp/content/%E6%99%82%E3%80%85) : 【ときどき】, (adv n adj-no), sometimes  
 [迷う](https://ejje.weblio.jp/content/%E8%BF%B7%E3%81%86) : 【まよう】, (v5u vi), to lose one's way  
+[事にする](https://ejje.weblio.jp/content/%E4%BA%8B%E3%81%AB%E3%81%99%E3%82%8B) : 【ことにする】, (exp vs-i uk), to decide to  
  
 
-__omitted words:__  1  
+__omitted words:__  0  
 
-～ことにする  
+  
 
 
 ----------------
 
-[～ことにする](https://ejje.weblio.jp/content/%EF%BD%9E%E3%81%93%E3%81%A8%E3%81%AB%E3%81%99%E3%82%8B) : 【 】   
   
 

@@ -1,21 +1,21 @@
 ### CMN 9.csv  
   
 
-さき 【（投資）先】   
+さき 【投資先】   
 あるいは    
 ところで    
 どちらにしても    
 のぞく    
-ば～ば～ほど    
+ばばほど    
 はず    
-ほどし～ば～ほど    
+ほどしばほど    
 まさか    
 もれる    
-として 【~として】   
-にたいして 【～に対して】   
-めったに 【めったに（～ない）】   
+として    
+にたいして 【に対して】   
+めったに    
 やりとり 【やり取り】   
-より 【より～】   
+より    
 なんらか 【何らか】   
 こじん 【個人】   
 さんこう 【参考】   
@@ -40,7 +40,8 @@
 せきにん 【責任】   
 すすむ。 【進む】   
 いでんし 【遺伝子】   
-よきん 【預金】  
+よきん 【預金】   
+ 
 
 
 ----------------
@@ -80,11 +81,13 @@ __Core 6k +__
 [預金](https://ejje.weblio.jp/content/%E9%A0%90%E9%87%91) : 【よきん】, (n, vs), deposit, bank account  
 [のぞく](https://ejje.weblio.jp/content/%E3%81%AE%E3%81%9E%E3%81%8F) : 【のぞく】, (v), look, peep  
 [まさか](https://ejje.weblio.jp/content/%E3%81%BE%E3%81%95%E3%81%8B) : 【まさか】, (adv), never in a million years  
+[めったに](https://ejje.weblio.jp/content/%E3%82%81%E3%81%A3%E3%81%9F%E3%81%AB) : 【めったに】, (adv), rarely  
+[より](https://ejje.weblio.jp/content/%E3%82%88%E3%82%8A) : 【より】, (adv), more, further  
  
 
-__omitted words:__ 17  
+__omitted words:__ 15  
 
-（投資）先, ~として, ～に対して, めったに（～ない）, やり取り, より～, 何らか, 気がする, 気味が悪い, 遺伝子, あるいは, ところで, どちらにしても, ば～ば～ほど, はず, ほどし～ば～ほど, もれる 
+投資先, に対して, やり取り, 何らか, 気がする, 気味が悪い, 遺伝子, あるいは, ところで, どちらにしても, ばばほど, はず, ほどしばほど, もれる, として 
 
 
 ----------------
@@ -92,31 +95,29 @@ __omitted words:__ 17
 __jmdict__  
 
 
+[に対して](https://ejje.weblio.jp/content/%E3%81%AB%E5%AF%BE%E3%81%97%E3%81%A6) : 【にたいして】, (exp), towards  
 [やり取り](https://ejje.weblio.jp/content/%E3%82%84%E3%82%8A%E5%8F%96%E3%82%8A) : 【やりとり】, (n vs uk), giving and taking  
 [何らか](https://ejje.weblio.jp/content/%E4%BD%95%E3%82%89%E3%81%8B) : 【なんらか】, (adj-no adv), some  
 [気がする](https://ejje.weblio.jp/content/%E6%B0%97%E3%81%8C%E3%81%99%E3%82%8B) : 【きがする】, (exp vs-i), to feel (as if)  
 [気味が悪い](https://ejje.weblio.jp/content/%E6%B0%97%E5%91%B3%E3%81%8C%E6%82%AA%E3%81%84) : 【きみがわるい】, (exp adj-i), creepy (feeling)  
 [遺伝子](https://ejje.weblio.jp/content/%E9%81%BA%E4%BC%9D%E5%AD%90) : 【いでんし】, (n), gene  
 [どちらにしても](https://ejje.weblio.jp/content/%E3%81%A9%E3%81%A1%E3%82%89%E3%81%AB%E3%81%97%E3%81%A6%E3%82%82) : 【】, (exp), either way  
+[として](https://ejje.weblio.jp/content/%E3%81%A8%E3%81%97%E3%81%A6) : 【】, (exp), as (i.e. in the role of)  
 [或いは](https://ejje.weblio.jp/content/%E6%88%96%E3%81%84%E3%81%AF) : 【あるいは】, (conj uk), or  
 [所で](https://ejje.weblio.jp/content/%E6%89%80%E3%81%A7) : 【ところで】, (conj uk), by the way  
 [筈](https://ejje.weblio.jp/content/%E7%AD%88) : 【はず】, (aux uk), should (be)  
 [盛れる](https://ejje.weblio.jp/content/%E7%9B%9B%E3%82%8C%E3%82%8B) : 【もれる】, (v1 vt sl), to make one look better  
  
 
-__omitted words:__  7  
+__omitted words:__  3  
 
-（投資）先, ~として, ～に対して, めったに（～ない）, より～, ば～ば～ほど, ほどし～ば～ほど  
+投資先, ばばほど, ほどしばほど  
 
 
 ----------------
 
-[（投資）先](https://ejje.weblio.jp/content/%EF%BC%88%E6%8A%95%E8%B3%87%EF%BC%89%E5%85%88) : 【 】   
-[~として](https://ejje.weblio.jp/content/~%E3%81%A8%E3%81%97%E3%81%A6) : 【 】   
-[～に対して](https://ejje.weblio.jp/content/%EF%BD%9E%E3%81%AB%E5%AF%BE%E3%81%97%E3%81%A6) : 【 】   
-[めったに（～ない）](https://ejje.weblio.jp/content/%E3%82%81%E3%81%A3%E3%81%9F%E3%81%AB%EF%BC%88%EF%BD%9E%E3%81%AA%E3%81%84%EF%BC%89) : 【 】   
-[より～](https://ejje.weblio.jp/content/%E3%82%88%E3%82%8A%EF%BD%9E) : 【 】   
-[ば～ば～ほど](https://ejje.weblio.jp/content/%E3%81%B0%EF%BD%9E%E3%81%B0%EF%BD%9E%E3%81%BB%E3%81%A9) : 【 】   
-[ほどし～ば～ほど](https://ejje.weblio.jp/content/%E3%81%BB%E3%81%A9%E3%81%97%EF%BD%9E%E3%81%B0%EF%BD%9E%E3%81%BB%E3%81%A9) : 【 】   
+[投資先](https://ejje.weblio.jp/content/%E6%8A%95%E8%B3%87%E5%85%88) : 【 】   
+[ばばほど](https://ejje.weblio.jp/content/%E3%81%B0%E3%81%B0%E3%81%BB%E3%81%A9) : 【 】   
+[ほどしばほど](https://ejje.weblio.jp/content/%E3%81%BB%E3%81%A9%E3%81%97%E3%81%B0%E3%81%BB%E3%81%A9) : 【 】   
   
 

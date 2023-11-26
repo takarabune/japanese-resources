@@ -1,10 +1,10 @@
 ### CMN 5.csv  
   
 
-てたまらない 【（〜て）たまらない】   
-ばかり 【（～た）ばかり】   
-いん 【（会社）員】   
-さ 【（難し）さ】   
+たまらない    
+ばかり    
+いん 【会社員】   
+さ 【難しさ】   
 あきれる    
 ころ    
 じっと    
@@ -28,7 +28,8 @@
 れいぎただしい 【礼儀正しい】   
 しゃかい 【社会】   
 とちゅう 【途中】   
-むずかしさ 【難しさ】  
+むずかしさ 【難しさ】   
+ 
 
 
 ----------------
@@ -57,9 +58,9 @@ __Core 6k +__
 [眠る](https://ejje.weblio.jp/content/%E7%9C%A0%E3%82%8B) : 【ねむる】, (v), sleep  
 [社会](https://ejje.weblio.jp/content/%E7%A4%BE%E4%BC%9A) : 【しゃかい】, (n), society  
 [途中](https://ejje.weblio.jp/content/%E9%80%94%E4%B8%AD) : 【とちゅう】, (n), on the way, half way  
+[たまらない](https://ejje.weblio.jp/content/%E3%81%9F%E3%81%BE%E3%82%89%E3%81%AA%E3%81%84) : 【たまらない】, (adj-i), can't stand, can't put up with  
 [あきれる](https://ejje.weblio.jp/content/%E3%81%82%E3%81%8D%E3%82%8C%E3%82%8B) : 【あきれる】, (v), be stunned in disappointment or disbelief  
 [じっと](https://ejje.weblio.jp/content/%E3%81%98%E3%81%A3%E3%81%A8) : 【じっと】, (adv), without moving, still  
-[（〜て）たまらない](https://ejje.weblio.jp/content/%EF%BC%88%E3%80%9C%E3%81%A6%EF%BC%89%E3%81%9F%E3%81%BE%E3%82%89%E3%81%AA%E3%81%84) : 【（〜て）たまらない】, (phrase), st is intolerable  
 [お年寄り](https://ejje.weblio.jp/content/%E3%81%8A%E5%B9%B4%E5%AF%84%E3%82%8A) : 【おとしより】, (n), senior citizen  
 [席を取る](https://ejje.weblio.jp/content/%E5%B8%AD%E3%82%92%E5%8F%96%E3%82%8B) : 【せきをとる】, (phrase), take a seat  
 [ころ](https://ejje.weblio.jp/content/%E3%81%93%E3%82%8D) : 【ころ】, (n), approx. time  
@@ -67,7 +68,7 @@ __Core 6k +__
 
 __omitted words:__ 10  
 
-（～た）ばかり, （会社）員, （難し）さ, この前, 中でも, 会社員, 手を貸す, 礼儀正しい, 難しさ, なんて 
+会社員, 難しさ, この前, 中でも, 会社員, 手を貸す, 礼儀正しい, 難しさ, ばかり, なんて 
 
 
 ----------------
@@ -75,6 +76,8 @@ __omitted words:__ 10
 __jmdict__  
 
 
+[会社員](https://ejje.weblio.jp/content/%E4%BC%9A%E7%A4%BE%E5%93%A1) : 【かいしゃいん】, (n), company employee  
+[難しさ](https://ejje.weblio.jp/content/%E9%9B%A3%E3%81%97%E3%81%95) : 【むずかしさ】, (n), (degree of) difficulty  
 [この前](https://ejje.weblio.jp/content/%E3%81%93%E3%81%AE%E5%89%8D) : 【このまえ】, (n adj-no), some time ago  
 [中でも](https://ejje.weblio.jp/content/%E4%B8%AD%E3%81%A7%E3%82%82) : 【なかでも】, (exp adv), among (other things)  
 [会社員](https://ejje.weblio.jp/content/%E4%BC%9A%E7%A4%BE%E5%93%A1) : 【かいしゃいん】, (n), company employee  
@@ -82,17 +85,15 @@ __jmdict__
 [礼儀正しい](https://ejje.weblio.jp/content/%E7%A4%BC%E5%84%80%E6%AD%A3%E3%81%97%E3%81%84) : 【れいぎただしい】, (adj-i), courteous  
 [難しさ](https://ejje.weblio.jp/content/%E9%9B%A3%E3%81%97%E3%81%95) : 【むずかしさ】, (n), (degree of) difficulty  
 [なんて](https://ejje.weblio.jp/content/%E3%81%AA%E3%82%93%E3%81%A6) : 【】, (prt adv), things like  
+[許り](https://ejje.weblio.jp/content/%E8%A8%B1%E3%82%8A) : 【ばかり】, (prt uk), only  
  
 
-__omitted words:__  3  
+__omitted words:__  0  
 
-（～た）ばかり, （会社）員, （難し）さ  
+  
 
 
 ----------------
 
-[（～た）ばかり](https://ejje.weblio.jp/content/%EF%BC%88%EF%BD%9E%E3%81%9F%EF%BC%89%E3%81%B0%E3%81%8B%E3%82%8A) : 【 】   
-[（会社）員](https://ejje.weblio.jp/content/%EF%BC%88%E4%BC%9A%E7%A4%BE%EF%BC%89%E5%93%A1) : 【 】   
-[（難し）さ](https://ejje.weblio.jp/content/%EF%BC%88%E9%9B%A3%E3%81%97%EF%BC%89%E3%81%95) : 【 】   
   
 

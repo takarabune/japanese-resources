@@ -1,10 +1,10 @@
 ### CMN 15.csv  
   
 
-まわる 【（歩き）回る】   
-げ 【（自慢）気】   
-あわせる 【（話を）合わせる】   
-しゃ 【（講演）著】   
+まわる 【歩き回る】   
+げ 【自慢気】   
+あわせる 【話を合わせる】   
+しゃ 【講演著】   
 おかしい    
 さすが    
 ショック    
@@ -12,9 +12,9 @@
 テーマ    
 ベストセラー    
 まとめる    
-わけがない 【～わけがない】   
-はじめ 【～をはじめ】   
-をはじめ 【～をはじめ】   
+わけがない    
+はじめ    
+をはじめ    
 いいきになる 【いい気になる】   
 ふれあい 【ふれ合い】   
 ふれあう 【ふれ合う】   
@@ -48,7 +48,8 @@
 はなしをあわせる 【話を合わせる】   
 こうえん 【講演】   
 かさねる 【重ねる】   
-ねがう 【願う】  
+ねがう 【願う】   
+ 
 
 
 ----------------
@@ -89,7 +90,7 @@ __Core 6k +__
 
 __omitted words:__ 28  
 
-（歩き）回る, （自慢）気, （話を）合わせる, （講演）著, ～わけがない, ～をはじめ, ～をはじめ, いい気になる, ふれ合い, ふれ合う, ものが見える, 何気ない, 冒頭, 和む, 問いかけ, 問いかける, 感, 歩き回る, 気がつく, 気が合う, 知らぬ間に, 知らぬ間に, 締めくくる, 耳を傾ける, 話を合わせる, さすが, そういえば, ベストセラー 
+歩き回る, 自慢気, 話を合わせる, 講演著, いい気になる, ふれ合い, ふれ合う, ものが見える, 何気ない, 冒頭, 和む, 問いかけ, 問いかける, 感, 歩き回る, 気がつく, 気が合う, 知らぬ間に, 知らぬ間に, 締めくくる, 耳を傾ける, 話を合わせる, さすが, そういえば, ベストセラー, わけがない, はじめ, をはじめ 
 
 
 ----------------
@@ -97,6 +98,8 @@ __omitted words:__ 28
 __jmdict__  
 
 
+[歩き回る](https://ejje.weblio.jp/content/%E6%AD%A9%E3%81%8D%E5%9B%9E%E3%82%8B) : 【あるきまわる】, (v5r), to walk about  
+[自慢気](https://ejje.weblio.jp/content/%E8%87%AA%E6%85%A2%E6%B0%97) : 【じまんげ】, (adj-na), proud  
 [いい気になる](https://ejje.weblio.jp/content/%E3%81%84%E3%81%84%E6%B0%97%E3%81%AB%E3%81%AA%E3%82%8B) : 【いいきになる】, (exp v5r), to be self-complacent  
 [ふれ合い](https://ejje.weblio.jp/content/%E3%81%B5%E3%82%8C%E5%90%88%E3%81%84) : 【ふれあい】, (n adj-f uk), contact  
 [何気ない](https://ejje.weblio.jp/content/%E4%BD%95%E6%B0%97%E3%81%AA%E3%81%84) : 【なにげない】, (adj-i), casual  
@@ -115,24 +118,22 @@ __jmdict__
 [ベストセラー](https://ejje.weblio.jp/content/%E3%83%99%E3%82%B9%E3%83%88%E3%82%BB%E3%83%A9%E3%83%BC) : 【】, (n), bestseller  
 [流石](https://ejje.weblio.jp/content/%E6%B5%81%E7%9F%B3) : 【さすが】, (adv adj-na uk), as one would expect  
 [そう言えば](https://ejje.weblio.jp/content/%E3%81%9D%E3%81%86%E8%A8%80%E3%81%88%E3%81%B0) : 【そういえば】, (exp uk), now that you mention it  
+[訳がない](https://ejje.weblio.jp/content/%E8%A8%B3%E3%81%8C%E3%81%AA%E3%81%84) : 【わけがない】, (exp uk), there is no way that ...  
+[始め](https://ejje.weblio.jp/content/%E5%A7%8B%E3%82%81) : 【はじめ】, (n-t n-adv), beginning  
  
 
-__omitted words:__  10  
+__omitted words:__  6  
 
-（歩き）回る, （自慢）気, （話を）合わせる, （講演）著, ～わけがない, ～をはじめ, ～をはじめ, ふれ合う, ものが見える, 話を合わせる  
+話を合わせる, 講演著, ふれ合う, ものが見える, 話を合わせる, をはじめ  
 
 
 ----------------
 
-[（歩き）回る](https://ejje.weblio.jp/content/%EF%BC%88%E6%AD%A9%E3%81%8D%EF%BC%89%E5%9B%9E%E3%82%8B) : 【 】   
-[（自慢）気](https://ejje.weblio.jp/content/%EF%BC%88%E8%87%AA%E6%85%A2%EF%BC%89%E6%B0%97) : 【 】   
-[（話を）合わせる](https://ejje.weblio.jp/content/%EF%BC%88%E8%A9%B1%E3%82%92%EF%BC%89%E5%90%88%E3%82%8F%E3%81%9B%E3%82%8B) : 【 】   
-[（講演）著](https://ejje.weblio.jp/content/%EF%BC%88%E8%AC%9B%E6%BC%94%EF%BC%89%E8%91%97) : 【 】   
-[～わけがない](https://ejje.weblio.jp/content/%EF%BD%9E%E3%82%8F%E3%81%91%E3%81%8C%E3%81%AA%E3%81%84) : 【 】   
-[～をはじめ](https://ejje.weblio.jp/content/%EF%BD%9E%E3%82%92%E3%81%AF%E3%81%98%E3%82%81) : 【 】   
-[～をはじめ](https://ejje.weblio.jp/content/%EF%BD%9E%E3%82%92%E3%81%AF%E3%81%98%E3%82%81) : 【 】   
+[話を合わせる](https://ejje.weblio.jp/content/%E8%A9%B1%E3%82%92%E5%90%88%E3%82%8F%E3%81%9B%E3%82%8B) : 【 】   
+[講演著](https://ejje.weblio.jp/content/%E8%AC%9B%E6%BC%94%E8%91%97) : 【 】   
 [ふれ合う](https://ejje.weblio.jp/content/%E3%81%B5%E3%82%8C%E5%90%88%E3%81%86) : 【 】   
 [ものが見える](https://ejje.weblio.jp/content/%E3%82%82%E3%81%AE%E3%81%8C%E8%A6%8B%E3%81%88%E3%82%8B) : 【 】   
 [話を合わせる](https://ejje.weblio.jp/content/%E8%A9%B1%E3%82%92%E5%90%88%E3%82%8F%E3%81%9B%E3%82%8B) : 【 】   
+[をはじめ](https://ejje.weblio.jp/content/%E3%82%92%E3%81%AF%E3%81%98%E3%82%81) : 【 】   
   
 

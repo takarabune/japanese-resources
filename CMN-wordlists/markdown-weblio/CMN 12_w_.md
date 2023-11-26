@@ -1,7 +1,7 @@
 ### CMN 12.csv  
   
 
-がわり 【（あいさつ）代わり】   
+がわり 【あいさつ代わり】   
 いいかげん    
 こる    
 ストレス    
@@ -9,9 +9,9 @@
 リーダーシップ    
 ルール    
 わがまま    
-というのも 【～というのも】   
-はというと 【～はというと】   
-とおり 【～通り】   
+というのも    
+はというと    
+とおり 【通り】   
 いっけん 【一見】   
 あたえる 【与える】   
 にんき 【人気】   
@@ -40,7 +40,8 @@
 かがくてき 【科学的】   
 けつえき 【血液】   
 こうどう 【行動】   
-おもんじる 【重んじる】  
+おもんじる 【重んじる】   
+ 
 
 
 ----------------
@@ -57,6 +58,7 @@ __Glossary:__
 __Core 6k +__  
 
 
+[通り](https://ejje.weblio.jp/content/%E9%80%9A%E3%82%8A) : 【とおり】, (n), passage, street  
 [一見](https://ejje.weblio.jp/content/%E4%B8%80%E8%A6%8B) : 【いっけん】, (adv), at a glance  
 [与える](https://ejje.weblio.jp/content/%E4%B8%8E%E3%81%88%E3%82%8B) : 【あたえる】, (v), give  
 [人気](https://ejje.weblio.jp/content/%E4%BA%BA%E6%B0%97) : 【にんき】, (n), popularity, temperament of the people, business conditions  
@@ -85,9 +87,9 @@ __Core 6k +__
 [わがまま](https://ejje.weblio.jp/content/%E3%82%8F%E3%81%8C%E3%81%BE%E3%81%BE) : 【わがまま】, (adj-na), selfishness, willfulness  
  
 
-__omitted words:__ 14  
+__omitted words:__ 13  
 
-（あいさつ）代わり, ～というのも, ～はというと, ～通り, 何事, 口にする, 楽天的, 気が強い, 気まぐれ, 科学的, 重んじる, いいかげん, こる, リーダーシップ 
+あいさつ代わり, 何事, 口にする, 楽天的, 気が強い, 気まぐれ, 科学的, 重んじる, いいかげん, こる, リーダーシップ, というのも, はというと 
 
 
 ----------------
@@ -95,6 +97,7 @@ __omitted words:__ 14
 __jmdict__  
 
 
+[あいさつ代わり](https://ejje.weblio.jp/content/%E3%81%82%E3%81%84%E3%81%95%E3%81%A4%E4%BB%A3%E3%82%8F%E3%82%8A) : 【あいさつがわり】, (n), substitute for a proper greeting (e.g. gift)  
 [何事](https://ejje.weblio.jp/content/%E4%BD%95%E4%BA%8B) : 【なにごと】, (n), what  
 [口にする](https://ejje.weblio.jp/content/%E5%8F%A3%E3%81%AB%E3%81%99%E3%82%8B) : 【くちにする】, (exp vs-i), to taste  
 [楽天的](https://ejje.weblio.jp/content/%E6%A5%BD%E5%A4%A9%E7%9A%84) : 【らくてんてき】, (adj-na), optimistic  
@@ -105,18 +108,16 @@ __jmdict__
 [リーダーシップ](https://ejje.weblio.jp/content/%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%B7%E3%83%83%E3%83%97) : 【】, (n), leadership  
 [いい加減](https://ejje.weblio.jp/content/%E3%81%84%E3%81%84%E5%8A%A0%E6%B8%9B) : 【いいかげん】, (adj-na), irresponsible  
 [凝る](https://ejje.weblio.jp/content/%E5%87%9D%E3%82%8B) : 【こる】, (v5r vi), to become stiff (of muscles)  
+[と言うのも](https://ejje.weblio.jp/content/%E3%81%A8%E8%A8%80%E3%81%86%E3%81%AE%E3%82%82) : 【というのも】, (exp uk), because  
  
 
-__omitted words:__  4  
+__omitted words:__  1  
 
-（あいさつ）代わり, ～というのも, ～はというと, ～通り  
+はというと  
 
 
 ----------------
 
-[（あいさつ）代わり](https://ejje.weblio.jp/content/%EF%BC%88%E3%81%82%E3%81%84%E3%81%95%E3%81%A4%EF%BC%89%E4%BB%A3%E3%82%8F%E3%82%8A) : 【 】   
-[～というのも](https://ejje.weblio.jp/content/%EF%BD%9E%E3%81%A8%E3%81%84%E3%81%86%E3%81%AE%E3%82%82) : 【 】   
-[～はというと](https://ejje.weblio.jp/content/%EF%BD%9E%E3%81%AF%E3%81%A8%E3%81%84%E3%81%86%E3%81%A8) : 【 】   
-[～通り](https://ejje.weblio.jp/content/%EF%BD%9E%E9%80%9A%E3%82%8A) : 【 】   
+[はというと](https://ejje.weblio.jp/content/%E3%81%AF%E3%81%A8%E3%81%84%E3%81%86%E3%81%A8) : 【 】   
   
 

@@ -1,17 +1,17 @@
 ### CMN 10.csv  
   
 
-からといって 【〜からといって】   
-どころか 【〜どころか】   
-わけにはいかない 【〜わけにはいかない】   
+からといって    
+どころか    
+わけにはいかない    
 いらいら    
 かえって    
 きらう    
 しばらく    
 すっかり    
 もうすぐ    
-ことに 【～ことに】   
-につれて 【～につれて】   
+ことに    
+につれて    
 ふべん 【不便】   
 ふめい 【不明】   
 なくす 【亡くす】   
@@ -36,7 +36,8 @@
 かたりかける 【語りかける】   
 おこる 【起こる】   
 おう 【追う】   
-まにあう 【間に合う】  
+まにあう 【間に合う】   
+ 
 
 
 ----------------
@@ -78,7 +79,7 @@ __Core 6k +__
 
 __omitted words:__ 15  
 
-〜からといって, 〜どころか, 〜わけにはいかない, ～ことに, ～につれて, 取りかかる, 口数, 唯一, 振り回す, 縁, 耳に残る, 腰を上げる, 語りかける, きらう, もうすぐ 
+取りかかる, 口数, 唯一, 振り回す, 縁, 耳に残る, 腰を上げる, 語りかける, からといって, どころか, わけにはいかない, きらう, もうすぐ, ことに, につれて 
 
 
 ----------------
@@ -94,21 +95,21 @@ __jmdict__
 [耳に残る](https://ejje.weblio.jp/content/%E8%80%B3%E3%81%AB%E6%AE%8B%E3%82%8B) : 【みみにのこる】, (exp v5r), to remain in memory (of sounds and words)  
 [腰を上げる](https://ejje.weblio.jp/content/%E8%85%B0%E3%82%92%E4%B8%8A%E3%81%92%E3%82%8B) : 【こしをあげる】, (exp v1), to get up (from sitting)  
 [語りかける](https://ejje.weblio.jp/content/%E8%AA%9E%E3%82%8A%E3%81%8B%E3%81%91%E3%82%8B) : 【かたりかける】, (v1), to make a speech  
+[からと言って](https://ejje.weblio.jp/content/%E3%81%8B%E3%82%89%E3%81%A8%E8%A8%80%E3%81%A3%E3%81%A6) : 【からといって】, (exp uk), just because  
+[所か](https://ejje.weblio.jp/content/%E6%89%80%E3%81%8B) : 【どころか】, (prt uk), far from  
+[訳にはいかない](https://ejje.weblio.jp/content/%E8%A8%B3%E3%81%AB%E3%81%AF%E3%81%84%E3%81%8B%E3%81%AA%E3%81%84) : 【わけにはいかない】, (exp uk), cannot (due to external circumstances)  
 [嫌う](https://ejje.weblio.jp/content/%E5%AB%8C%E3%81%86) : 【きらう】, (v5u vt), to hate  
 [もう直ぐ](https://ejje.weblio.jp/content/%E3%82%82%E3%81%86%E7%9B%B4%E3%81%90) : 【もうすぐ】, (exp adv uk), soon  
+[殊に](https://ejje.weblio.jp/content/%E6%AE%8A%E3%81%AB) : 【ことに】, (adv), especially  
+[に連れて](https://ejje.weblio.jp/content/%E3%81%AB%E9%80%A3%E3%82%8C%E3%81%A6) : 【につれて】, (exp conj uk), as (X, then Y)  
  
 
-__omitted words:__  5  
+__omitted words:__  0  
 
-〜からといって, 〜どころか, 〜わけにはいかない, ～ことに, ～につれて  
+  
 
 
 ----------------
 
-[〜からといって](https://ejje.weblio.jp/content/%E3%80%9C%E3%81%8B%E3%82%89%E3%81%A8%E3%81%84%E3%81%A3%E3%81%A6) : 【 】   
-[〜どころか](https://ejje.weblio.jp/content/%E3%80%9C%E3%81%A9%E3%81%93%E3%82%8D%E3%81%8B) : 【 】   
-[〜わけにはいかない](https://ejje.weblio.jp/content/%E3%80%9C%E3%82%8F%E3%81%91%E3%81%AB%E3%81%AF%E3%81%84%E3%81%8B%E3%81%AA%E3%81%84) : 【 】   
-[～ことに](https://ejje.weblio.jp/content/%EF%BD%9E%E3%81%93%E3%81%A8%E3%81%AB) : 【 】   
-[～につれて](https://ejje.weblio.jp/content/%EF%BD%9E%E3%81%AB%E3%81%A4%E3%82%8C%E3%81%A6) : 【 】   
   
 

@@ -1,24 +1,24 @@
 ### CMN 13.csv  
   
 
-がてら 【〜がてら】   
-まま 【〜まま】   
-あまり 【（年）余り】   
-きる 【（乾き）切る】   
-まみれ 【（汗）まみれ】   
+がてら    
+まま    
+あまり 【年余り】   
+きる 【乾き切る】   
+まみれ 【汗まみれ】   
 うなずく    
 きっかけ    
-ごくごく（と）    
+ごくごく    
 ねだる    
 ふう    
 ふと    
 もっとも    
 ゆかた    
-ゆったり(と)    
+ゆったり    
 ようやく    
-ことだから 【～のことだから】   
-のことだから 【～のことだから】   
-べき 【～べき】   
+ことだから    
+のことだから    
+べき    
 のどをならす 【のどを鳴らす】   
 いっしゅん 【一瞬】   
 かわききる 【乾き切る】   
@@ -49,7 +49,8 @@
 とおりがかり 【通りがかり】   
 とおりがかる 【通りがかる】   
 れんそう 【連想】   
-ひ 【陽】  
+ひ 【陽】   
+ 
 
 
 ----------------
@@ -81,16 +82,18 @@ __Core 6k +__
 [見つめる](https://ejje.weblio.jp/content/%E8%A6%8B%E3%81%A4%E3%82%81%E3%82%8B) : 【みつめる】, (v), stare  
 [解放](https://ejje.weblio.jp/content/%E8%A7%A3%E6%94%BE) : 【かいほう】, (n, vs), release, setting free  
 [辺り](https://ejje.weblio.jp/content/%E8%BE%BA%E3%82%8A) : 【あたり】, (n), vicinity, around  
+[まま](https://ejje.weblio.jp/content/%E3%81%BE%E3%81%BE) : 【まま】, (n), as is, still (in the current state)  
 [うなずく](https://ejje.weblio.jp/content/%E3%81%86%E3%81%AA%E3%81%9A%E3%81%8F) : 【うなずく】, (v), nod  
 [きっかけ](https://ejje.weblio.jp/content/%E3%81%8D%E3%81%A3%E3%81%8B%E3%81%91) : 【きっかけ】, (n), chance, opportunity  
 [ふと](https://ejje.weblio.jp/content/%E3%81%B5%E3%81%A8) : 【ふと】, (adv), suddenly, unexpectedly  
 [もっとも](https://ejje.weblio.jp/content/%E3%82%82%E3%81%A3%E3%81%A8%E3%82%82) : 【もっとも】, (adj-i), quite right  
+[ゆったり](https://ejje.weblio.jp/content/%E3%82%86%E3%81%A3%E3%81%9F%E3%82%8A) : 【ゆったり】, (adv), comfortable  
 [ようやく](https://ejje.weblio.jp/content/%E3%82%88%E3%81%86%E3%82%84%E3%81%8F) : 【ようやく】, (adv), at last, at length  
  
 
-__omitted words:__ 29  
+__omitted words:__ 27  
 
-〜がてら, 〜まま, （10年）余り, （乾き）切る, （汗）まみれ, ～のことだから, ～のことだから, ～べき, のどを鳴らす, 乾き切る, 声がする, 夕涼み, 打ち上げ, 指示, 暗やみ, 機嫌がいい, 汗まみれ, 生き返る , 腰を下ろす, 見合わせる, 通りがかり, 通りがかる, 連想, 陽, ごくごく（と）, ねだる, ふう, ゆかた, ゆったり(と) 
+10年余り, 乾き切る, 汗まみれ, のどを鳴らす, 乾き切る, 声がする, 夕涼み, 打ち上げ, 指示, 暗やみ, 機嫌がいい, 汗まみれ, 生き返る , 腰を下ろす, 見合わせる, 通りがかり, 通りがかる, 連想, 陽, がてら, ごくごく, ねだる, ふう, ゆかた, ことだから, のことだから, べき 
 
 
 ----------------
@@ -98,6 +101,8 @@ __omitted words:__ 29
 __jmdict__  
 
 
+[乾き切る](https://ejje.weblio.jp/content/%E4%B9%BE%E3%81%8D%E5%88%87%E3%82%8B) : 【かわききる】, (v5r), to drain dry  
+[汗まみれ](https://ejje.weblio.jp/content/%E6%B1%97%E3%81%BE%E3%81%BF%E3%82%8C) : 【あせまみれ】, (adj-no adv), sweaty  
 [のどを鳴らす](https://ejje.weblio.jp/content/%E3%81%AE%E3%81%A9%E3%82%92%E9%B3%B4%E3%82%89%E3%81%99) : 【のどをならす】, (exp v5s), to make a sound with one's throat  
 [乾き切る](https://ejje.weblio.jp/content/%E4%B9%BE%E3%81%8D%E5%88%87%E3%82%8B) : 【かわききる】, (v5r), to drain dry  
 [声がする](https://ejje.weblio.jp/content/%E5%A3%B0%E3%81%8C%E3%81%99%E3%82%8B) : 【こえがする】, (exp vs-i), to speak  
@@ -112,29 +117,25 @@ __jmdict__
 [通りがかり](https://ejje.weblio.jp/content/%E9%80%9A%E3%82%8A%E3%81%8C%E3%81%8B%E3%82%8A) : 【とおりがかり】, (n adj-no), passing (along the way)  
 [連想](https://ejje.weblio.jp/content/%E9%80%A3%E6%83%B3) : 【れんそう】, (n vs adj-no), association (of ideas)  
 [陽](https://ejje.weblio.jp/content/%E9%99%BD) : 【ひ】, (n-adv n-t), sun  
+[がてら](https://ejje.weblio.jp/content/%E3%81%8C%E3%81%A6%E3%82%89) : 【】, (prt), on the same occasion  
+[ごくごく](https://ejje.weblio.jp/content/%E3%81%94%E3%81%8F%E3%81%94%E3%81%8F) : 【】, (adv adv-to on-mim), in big gulps  
 [ふう](https://ejje.weblio.jp/content/%E3%81%B5%E3%81%86) : 【】, (int), phew  
 [強請る](https://ejje.weblio.jp/content/%E5%BC%B7%E8%AB%8B%E3%82%8B) : 【ねだる】, (v5r vt uk), to beg  
 [浴衣](https://ejje.weblio.jp/content/%E6%B5%B4%E8%A1%A3) : 【ゆかた】, (n), yukata (light cotton kimono worn in the summer or used as a bathrobe)  
+[冪](https://ejje.weblio.jp/content/%E5%86%AA) : 【べき】, (n math), exponent  
  
 
-__omitted words:__  12  
+__omitted words:__  5  
 
-〜がてら, 〜まま, （10年）余り, （乾き）切る, （汗）まみれ, ～のことだから, ～のことだから, ～べき, 生き返る , 通りがかる, ごくごく（と）, ゆったり(と)  
+10年余り, 生き返る , 通りがかる, ことだから, のことだから  
 
 
 ----------------
 
-[〜がてら](https://ejje.weblio.jp/content/%E3%80%9C%E3%81%8C%E3%81%A6%E3%82%89) : 【 】   
-[〜まま](https://ejje.weblio.jp/content/%E3%80%9C%E3%81%BE%E3%81%BE) : 【 】   
-[（10年）余り](https://ejje.weblio.jp/content/%EF%BC%8810%E5%B9%B4%EF%BC%89%E4%BD%99%E3%82%8A) : 【 】   
-[（乾き）切る](https://ejje.weblio.jp/content/%EF%BC%88%E4%B9%BE%E3%81%8D%EF%BC%89%E5%88%87%E3%82%8B) : 【 】   
-[（汗）まみれ](https://ejje.weblio.jp/content/%EF%BC%88%E6%B1%97%EF%BC%89%E3%81%BE%E3%81%BF%E3%82%8C) : 【 】   
-[～のことだから](https://ejje.weblio.jp/content/%EF%BD%9E%E3%81%AE%E3%81%93%E3%81%A8%E3%81%A0%E3%81%8B%E3%82%89) : 【 】   
-[～のことだから](https://ejje.weblio.jp/content/%EF%BD%9E%E3%81%AE%E3%81%93%E3%81%A8%E3%81%A0%E3%81%8B%E3%82%89) : 【 】   
-[～べき](https://ejje.weblio.jp/content/%EF%BD%9E%E3%81%B9%E3%81%8D) : 【 】   
+[10年余り](https://ejje.weblio.jp/content/10%E5%B9%B4%E4%BD%99%E3%82%8A) : 【 】   
 [生き返る ](https://ejje.weblio.jp/content/%E7%94%9F%E3%81%8D%E8%BF%94%E3%82%8B%20) : 【 】   
 [通りがかる](https://ejje.weblio.jp/content/%E9%80%9A%E3%82%8A%E3%81%8C%E3%81%8B%E3%82%8B) : 【 】   
-[ごくごく（と）](https://ejje.weblio.jp/content/%E3%81%94%E3%81%8F%E3%81%94%E3%81%8F%EF%BC%88%E3%81%A8%EF%BC%89) : 【 】   
-[ゆったり(と)](https://ejje.weblio.jp/content/%E3%82%86%E3%81%A3%E3%81%9F%E3%82%8A%28%E3%81%A8%29) : 【 】   
+[ことだから](https://ejje.weblio.jp/content/%E3%81%93%E3%81%A8%E3%81%A0%E3%81%8B%E3%82%89) : 【 】   
+[のことだから](https://ejje.weblio.jp/content/%E3%81%AE%E3%81%93%E3%81%A8%E3%81%A0%E3%81%8B%E3%82%89) : 【 】   
   
 

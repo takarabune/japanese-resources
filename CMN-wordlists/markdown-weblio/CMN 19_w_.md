@@ -1,17 +1,17 @@
 ### CMN 19.csv  
   
 
-さえ 【〜さえ～ば】   
-せい 【（可能）性】   
-おえる 【（話し）終える】   
+さえ    
+せい 【可能性】   
+おえる 【話し終える】   
 かなう    
 こそ    
 すら    
 よりほかはない    
-ことから 【～ことから】   
-ないものか 【～ないものか】   
-ともかく 【～はともかく】   
-はともかく 【～はともかく】   
+ことから    
+ないものか    
+ともかく    
+はともかく    
 こうりゅう 【交流】   
 はたらきづめ 【働きづめ】   
 ぐたいてき 【具体的】   
@@ -51,7 +51,8 @@
 みうち 【身内】   
 かがやく 【輝く】   
 せんたくし 【選択肢】   
-かくす 【隠す】  
+かくす 【隠す】   
+ 
 
 
 ----------------
@@ -96,11 +97,12 @@ __Core 6k +__
 [貧しい](https://ejje.weblio.jp/content/%E8%B2%A7%E3%81%97%E3%81%84) : 【まずしい】, (adj-i), poor, needy  
 [輝く](https://ejje.weblio.jp/content/%E8%BC%9D%E3%81%8F) : 【かがやく】, (v), shine brilliantly, glitter  
 [隠す](https://ejje.weblio.jp/content/%E9%9A%A0%E3%81%99) : 【かくす】, (v), hide, conceal  
+[ともかく](https://ejje.weblio.jp/content/%E3%81%A8%E3%82%82%E3%81%8B%E3%81%8F) : 【ともかく】, (adv), at least, at any rate  
  
 
-__omitted words:__ 23  
+__omitted words:__ 22  
 
-〜さえ～ば, （可能）性, （話し）終える, ～ことから, ～ないものか, ～はともかく, ～はともかく, 働きづめ, 可能性, 差し伸べる, 恵む, 抜け出す, 物質的, 胸が痛む, 表れる, 表面的, 話し終える, 身内, 選択肢, かなう, こそ, すら, よりほかはない 
+可能性, 話し終える, 働きづめ, 可能性, 差し伸べる, 恵む, 抜け出す, 物質的, 胸が痛む, 表れる, 表面的, 話し終える, 身内, 選択肢, さえ, かなう, こそ, すら, よりほかはない, ことから, ないものか, はともかく 
 
 
 ----------------
@@ -108,6 +110,7 @@ __omitted words:__ 23
 __jmdict__  
 
 
+[可能性](https://ejje.weblio.jp/content/%E5%8F%AF%E8%83%BD%E6%80%A7) : 【かのうせい】, (n), potentiality  
 [働きづめ](https://ejje.weblio.jp/content/%E5%83%8D%E3%81%8D%E3%81%A5%E3%82%81) : 【はたらきづめ】, (n), incessant working  
 [可能性](https://ejje.weblio.jp/content/%E5%8F%AF%E8%83%BD%E6%80%A7) : 【かのうせい】, (n), potentiality  
 [差し伸べる](https://ejje.weblio.jp/content/%E5%B7%AE%E3%81%97%E4%BC%B8%E3%81%B9%E3%82%8B) : 【さしのべる】, (v1 vt), to hold out  
@@ -119,26 +122,24 @@ __jmdict__
 [表面的](https://ejje.weblio.jp/content/%E8%A1%A8%E9%9D%A2%E7%9A%84) : 【ひょうめんてき】, (adj-na), superficial  
 [身内](https://ejje.weblio.jp/content/%E8%BA%AB%E5%86%85) : 【みうち】, (n), relatives  
 [選択肢](https://ejje.weblio.jp/content/%E9%81%B8%E6%8A%9E%E8%82%A2) : 【せんたくし】, (n), choices  
+[さえ](https://ejje.weblio.jp/content/%E3%81%95%E3%81%88) : 【】, (prt), even  
 [こそ](https://ejje.weblio.jp/content/%E3%81%93%E3%81%9D) : 【】, (prt), it is ... that ...  
 [すら](https://ejje.weblio.jp/content/%E3%81%99%E3%82%89) : 【】, (prt), even  
+[ことから](https://ejje.weblio.jp/content/%E3%81%93%E3%81%A8%E3%81%8B%E3%82%89) : 【】, (exp), from the fact that ...  
 [叶う](https://ejje.weblio.jp/content/%E5%8F%B6%E3%81%86) : 【かなう】, (v5u), to come true (of a wish, prayer, etc.)  
  
 
-__omitted words:__  9  
+__omitted words:__  5  
 
-〜さえ～ば, （可能）性, （話し）終える, ～ことから, ～ないものか, ～はともかく, ～はともかく, 話し終える, よりほかはない  
+話し終える, 話し終える, よりほかはない, ないものか, はともかく  
 
 
 ----------------
 
-[〜さえ～ば](https://ejje.weblio.jp/content/%E3%80%9C%E3%81%95%E3%81%88%EF%BD%9E%E3%81%B0) : 【 】   
-[（可能）性](https://ejje.weblio.jp/content/%EF%BC%88%E5%8F%AF%E8%83%BD%EF%BC%89%E6%80%A7) : 【 】   
-[（話し）終える](https://ejje.weblio.jp/content/%EF%BC%88%E8%A9%B1%E3%81%97%EF%BC%89%E7%B5%82%E3%81%88%E3%82%8B) : 【 】   
-[～ことから](https://ejje.weblio.jp/content/%EF%BD%9E%E3%81%93%E3%81%A8%E3%81%8B%E3%82%89) : 【 】   
-[～ないものか](https://ejje.weblio.jp/content/%EF%BD%9E%E3%81%AA%E3%81%84%E3%82%82%E3%81%AE%E3%81%8B) : 【 】   
-[～はともかく](https://ejje.weblio.jp/content/%EF%BD%9E%E3%81%AF%E3%81%A8%E3%82%82%E3%81%8B%E3%81%8F) : 【 】   
-[～はともかく](https://ejje.weblio.jp/content/%EF%BD%9E%E3%81%AF%E3%81%A8%E3%82%82%E3%81%8B%E3%81%8F) : 【 】   
+[話し終える](https://ejje.weblio.jp/content/%E8%A9%B1%E3%81%97%E7%B5%82%E3%81%88%E3%82%8B) : 【 】   
 [話し終える](https://ejje.weblio.jp/content/%E8%A9%B1%E3%81%97%E7%B5%82%E3%81%88%E3%82%8B) : 【 】   
 [よりほかはない](https://ejje.weblio.jp/content/%E3%82%88%E3%82%8A%E3%81%BB%E3%81%8B%E3%81%AF%E3%81%AA%E3%81%84) : 【 】   
+[ないものか](https://ejje.weblio.jp/content/%E3%81%AA%E3%81%84%E3%82%82%E3%81%AE%E3%81%8B) : 【 】   
+[はともかく](https://ejje.weblio.jp/content/%E3%81%AF%E3%81%A8%E3%82%82%E3%81%8B%E3%81%8F) : 【 】   
   
 

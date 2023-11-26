@@ -1,10 +1,10 @@
 ### CMN 14.csv  
   
 
-にもかかわらず 【〜にもかかわらず】   
-うえで 【（～る）上で】   
-ご 【（数時間）後】   
-なおす 【（見）直す】   
+にもかかわらず    
+うえで 【上で】   
+ご 【数時間後】   
+なおす 【見直す】   
 あわてる    
 いのる    
 うばう    
@@ -15,12 +15,12 @@
 なくてはならない    
 めずらしい    
 よごす    
-とともに 【～とともに】   
-ともに 【～とともに】   
-しだい 【～次第】   
+とともに    
+ともに    
+しだい 【次第】   
 よそく 【予測】   
 しゅうかく 【収穫】   
-かく 【各（地）】   
+かく 【各地】   
 かくち 【各地】   
 むき 【向き】   
 むく 【向く】   
@@ -31,7 +31,7 @@
 ひきおこす 【引き起こす】   
 あてになる 【当てになる】   
 てにおえない 【手におえない】   
-すう 【数（時間）】   
+すう 【数時間】   
 ひどり 【日取り】   
 じき 【時期】   
 きしょう 【気象】   
@@ -48,7 +48,8 @@
 いいつたえ 【言い伝え】   
 いいつたえる 【言い伝える】   
 のうさぎょう 【農作業】   
-しんぽ 【進歩】  
+しんぽ 【進歩】   
+ 
 
 
 ----------------
@@ -65,7 +66,10 @@ __Glossary:__
 __Core 6k +__  
 
 
+[見直す](https://ejje.weblio.jp/content/%E8%A6%8B%E7%9B%B4%E3%81%99) : 【みなおす】, (v), reconsider, change one's opinion for the better  
+[次第](https://ejje.weblio.jp/content/%E6%AC%A1%E7%AC%AC) : 【しだい】, (n), as soon as  
 [収穫](https://ejje.weblio.jp/content/%E5%8F%8E%E7%A9%AB) : 【しゅうかく】, (n, vs), harvest, harvesting  
+[各地](https://ejje.weblio.jp/content/%E5%90%84%E5%9C%B0) : 【かくち】, (n), every place, various parts  
 [各地](https://ejje.weblio.jp/content/%E5%90%84%E5%9C%B0) : 【かくち】, (n), every place, various parts  
 [向き](https://ejje.weblio.jp/content/%E5%90%91%E3%81%8D) : 【むき】, (n), direction, turn  
 [向く](https://ejje.weblio.jp/content/%E5%90%91%E3%81%8F) : 【むく】, (v), turn, face, look  
@@ -85,9 +89,9 @@ __Core 6k +__
 [進歩](https://ejje.weblio.jp/content/%E9%80%B2%E6%AD%A9) : 【しんぽ】, (n, vs), progress, advancement  
  
 
-__omitted words:__ 30  
+__omitted words:__ 27  
 
-〜にもかかわらず, （～る）上で, （数時間）後, （見）直す, ～とともに, ～とともに, ～次第, 予測, 各（地）, 営み, 営む, 引き起こす, 当てになる, 手におえない, 数（時間）, 日取り, 父かせない, 言い伝え, 言い伝える, 農作業, あわてる, いのる, うばう, かけがえのない, したがう, てるてるほうず, とける, なくてはならない, めずらしい, よごす 
+上で, 数時間後, 予測, 営み, 営む, 引き起こす, 当てになる, 手におえない, 数時間, 日取り, 父かせない, 言い伝え, 言い伝える, 農作業, にもかかわらず, あわてる, いのる, うばう, かけがえのない, したがう, てるてるほうず, とける, なくてはならない, めずらしい, よごす, とともに, ともに 
 
 
 ----------------
@@ -101,10 +105,12 @@ __jmdict__
 [引き起こす](https://ejje.weblio.jp/content/%E5%BC%95%E3%81%8D%E8%B5%B7%E3%81%93%E3%81%99) : 【ひきおこす】, (v5s vt), to cause  
 [当てになる](https://ejje.weblio.jp/content/%E5%BD%93%E3%81%A6%E3%81%AB%E3%81%AA%E3%82%8B) : 【あてになる】, (exp v5r), reliable  
 [手におえない](https://ejje.weblio.jp/content/%E6%89%8B%E3%81%AB%E3%81%8A%E3%81%88%E3%81%AA%E3%81%84) : 【てにおえない】, (exp adj-i), too much for one to handle  
+[数時間](https://ejje.weblio.jp/content/%E6%95%B0%E6%99%82%E9%96%93) : 【すうじかん】, (n), a few hours  
 [日取り](https://ejje.weblio.jp/content/%E6%97%A5%E5%8F%96%E3%82%8A) : 【ひどり】, (n), fixed date  
 [言い伝え](https://ejje.weblio.jp/content/%E8%A8%80%E3%81%84%E4%BC%9D%E3%81%88) : 【いいつたえ】, (n), tradition  
 [言い伝える](https://ejje.weblio.jp/content/%E8%A8%80%E3%81%84%E4%BC%9D%E3%81%88%E3%82%8B) : 【いいつたえる】, (v1 vt), to hand down (a story, legend, etc.)  
 [農作業](https://ejje.weblio.jp/content/%E8%BE%B2%E4%BD%9C%E6%A5%AD) : 【のうさぎょう】, (n), farmwork  
+[にも関わらず](https://ejje.weblio.jp/content/%E3%81%AB%E3%82%82%E9%96%A2%E3%82%8F%E3%82%89%E3%81%9A) : 【にもかかわらず】, (exp conj uk), in spite of  
 [慌てる](https://ejje.weblio.jp/content/%E6%85%8C%E3%81%A6%E3%82%8B) : 【あわてる】, (v1 vi), to become confused (disconcerted, disorganized, disorganised)  
 [祈る](https://ejje.weblio.jp/content/%E7%A5%88%E3%82%8B) : 【いのる】, (v5r vt), to pray  
 [奪う](https://ejje.weblio.jp/content/%E5%A5%AA%E3%81%86) : 【うばう】, (v5u vt), to snatch away  
@@ -114,24 +120,19 @@ __jmdict__
 [無くてはならない](https://ejje.weblio.jp/content/%E7%84%A1%E3%81%8F%E3%81%A6%E3%81%AF%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84) : 【なくてはならない】, (exp adj-i uk), cannot do without something  
 [珍しい](https://ejje.weblio.jp/content/%E7%8F%8D%E3%81%97%E3%81%84) : 【めずらしい】, (adj-i), unusual  
 [汚す](https://ejje.weblio.jp/content/%E6%B1%9A%E3%81%99) : 【よごす】, (v5s vt), to pollute  
+[と共に](https://ejje.weblio.jp/content/%E3%81%A8%E5%85%B1%E3%81%AB) : 【とともに】, (exp uk), together with  
+[共に](https://ejje.weblio.jp/content/%E5%85%B1%E3%81%AB) : 【ともに】, (adv uk), together  
  
 
-__omitted words:__  11  
+__omitted words:__  4  
 
-〜にもかかわらず, （～る）上で, （数時間）後, （見）直す, ～とともに, ～とともに, ～次第, 各（地）, 数（時間）, 父かせない, てるてるほうず  
+上で, 数時間後, 父かせない, てるてるほうず  
 
 
 ----------------
 
-[〜にもかかわらず](https://ejje.weblio.jp/content/%E3%80%9C%E3%81%AB%E3%82%82%E3%81%8B%E3%81%8B%E3%82%8F%E3%82%89%E3%81%9A) : 【 】   
-[（～る）上で](https://ejje.weblio.jp/content/%EF%BC%88%EF%BD%9E%E3%82%8B%EF%BC%89%E4%B8%8A%E3%81%A7) : 【 】   
-[（数時間）後](https://ejje.weblio.jp/content/%EF%BC%88%E6%95%B0%E6%99%82%E9%96%93%EF%BC%89%E5%BE%8C) : 【 】   
-[（見）直す](https://ejje.weblio.jp/content/%EF%BC%88%E8%A6%8B%EF%BC%89%E7%9B%B4%E3%81%99) : 【 】   
-[～とともに](https://ejje.weblio.jp/content/%EF%BD%9E%E3%81%A8%E3%81%A8%E3%82%82%E3%81%AB) : 【 】   
-[～とともに](https://ejje.weblio.jp/content/%EF%BD%9E%E3%81%A8%E3%81%A8%E3%82%82%E3%81%AB) : 【 】   
-[～次第](https://ejje.weblio.jp/content/%EF%BD%9E%E6%AC%A1%E7%AC%AC) : 【 】   
-[各（地）](https://ejje.weblio.jp/content/%E5%90%84%EF%BC%88%E5%9C%B0%EF%BC%89) : 【 】   
-[数（時間）](https://ejje.weblio.jp/content/%E6%95%B0%EF%BC%88%E6%99%82%E9%96%93%EF%BC%89) : 【 】   
+[上で](https://ejje.weblio.jp/content/%E4%B8%8A%E3%81%A7) : 【 】   
+[数時間後](https://ejje.weblio.jp/content/%E6%95%B0%E6%99%82%E9%96%93%E5%BE%8C) : 【 】   
 [父かせない](https://ejje.weblio.jp/content/%E7%88%B6%E3%81%8B%E3%81%9B%E3%81%AA%E3%81%84) : 【 】   
 [てるてるほうず](https://ejje.weblio.jp/content/%E3%81%A6%E3%82%8B%E3%81%A6%E3%82%8B%E3%81%BB%E3%81%86%E3%81%9A) : 【 】   
   

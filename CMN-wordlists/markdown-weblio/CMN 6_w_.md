@@ -1,14 +1,14 @@
 ### CMN 6.csv  
   
 
-とか 【〜とか】   
-ない 【（車）内】   
+とか    
+ない 【車内】   
 アナウンス    
 うんざり    
 できるだけ    
 もの    
-といっても 【～といっても】   
-について 【～について】   
+といっても    
+について    
 むしあつい 【むし暑い】   
 じょうしゃ 【乗車】   
 べつ 【別】   
@@ -30,7 +30,8 @@
 きんし 【禁止】   
 しゃない 【車内】   
 まちがう 【間違う】   
-はなれる 【離れる】  
+はなれる 【離れる】   
+ 
 
 
 ----------------
@@ -47,6 +48,7 @@ __Glossary:__
 __Core 6k +__  
 
 
+[車内](https://ejje.weblio.jp/content/%E8%BB%8A%E5%86%85) : 【しゃない】, (n), inside a vehicle  
 [乗車](https://ejje.weblio.jp/content/%E4%B9%97%E8%BB%8A) : 【じょうしゃ】, (n, vs), boarding, getting on board  
 [別](https://ejje.weblio.jp/content/%E5%88%A5) : 【べつ】, (adj-na), another, different  
 [券](https://ejje.weblio.jp/content/%E5%88%B8) : 【けん】, (n), voucher, ticket  
@@ -67,9 +69,9 @@ __Core 6k +__
 [離れる](https://ejje.weblio.jp/content/%E9%9B%A2%E3%82%8C%E3%82%8B) : 【はなれる】, (v), separate, leave  
  
 
-__omitted words:__ 12  
+__omitted words:__ 11  
 
-〜とか, （車）内, ～といっても, ～について, むし暑い, 思いやる, 気にかかる, 目にする, アナウンス, うんざり, できるだけ, もの 
+むし暑い, 思いやる, 気にかかる, 目にする, とか, アナウンス, うんざり, できるだけ, もの, といっても, について 
 
 
 ----------------
@@ -81,22 +83,21 @@ __jmdict__
 [思いやる](https://ejje.weblio.jp/content/%E6%80%9D%E3%81%84%E3%82%84%E3%82%8B) : 【おもいやる】, (v5r), to be considerate  
 [気にかかる](https://ejje.weblio.jp/content/%E6%B0%97%E3%81%AB%E3%81%8B%E3%81%8B%E3%82%8B) : 【きにかかる】, (v5r vi exp), to weigh on one's mind  
 [目にする](https://ejje.weblio.jp/content/%E7%9B%AE%E3%81%AB%E3%81%99%E3%82%8B) : 【めにする】, (exp vs-i), to see  
+[とか](https://ejje.weblio.jp/content/%E3%81%A8%E3%81%8B) : 【】, (prt conj), and the like  
 [アナウンス](https://ejje.weblio.jp/content/%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9) : 【】, (n vs), announcement (esp. over public-address system)  
 [うんざり](https://ejje.weblio.jp/content/%E3%81%86%E3%82%93%E3%81%96%E3%82%8A) : 【】, (adv adv-to vs on-mim), tedious  
 [もの](https://ejje.weblio.jp/content/%E3%82%82%E3%81%AE) : 【】, (prt), indicates reason or excuse  
 [出来るだけ](https://ejje.weblio.jp/content/%E5%87%BA%E6%9D%A5%E3%82%8B%E3%81%A0%E3%81%91) : 【できるだけ】, (exp adv adj-no uk), as much as one can  
+[と言っても](https://ejje.weblio.jp/content/%E3%81%A8%E8%A8%80%E3%81%A3%E3%81%A6%E3%82%82) : 【といっても】, (conj uk), although I say  
+[に就いて](https://ejje.weblio.jp/content/%E3%81%AB%E5%B0%B1%E3%81%84%E3%81%A6) : 【について】, (exp uk), concerning  
  
 
-__omitted words:__  4  
+__omitted words:__  0  
 
-〜とか, （車）内, ～といっても, ～について  
+  
 
 
 ----------------
 
-[〜とか](https://ejje.weblio.jp/content/%E3%80%9C%E3%81%A8%E3%81%8B) : 【 】   
-[（車）内](https://ejje.weblio.jp/content/%EF%BC%88%E8%BB%8A%EF%BC%89%E5%86%85) : 【 】   
-[～といっても](https://ejje.weblio.jp/content/%EF%BD%9E%E3%81%A8%E3%81%84%E3%81%A3%E3%81%A6%E3%82%82) : 【 】   
-[～について](https://ejje.weblio.jp/content/%EF%BD%9E%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6) : 【 】   
   
 

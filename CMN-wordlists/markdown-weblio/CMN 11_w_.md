@@ -1,12 +1,11 @@
 ### CMN 11.csv  
   
 
-うえで 【（～た）上で】   
+うえで 【上で】   
 さえ    
 ふさわしい    
-ざるをえない 【～ざるを得ない】   
-しろ 【～にしろ～にしろ】   
-にしろ 【～にしろ～にしろ】   
+ざるをえない 【ざるを得ない】   
+にしろ    
 おたがい 【お互い】   
 いちにんまえ 【一人前】   
 うえにたつ 【上に立つ】   
@@ -32,7 +31,7 @@
 かんげい 【歓迎】   
 きやすい 【気安い】   
 きらく 【気楽】   
-む 【無（責任）】   
+む 【無責任】   
 むせきにん 【無責任】   
 うみだす 【生み出す】   
 しんけん 【真剣】   
@@ -42,7 +41,8 @@
 そだてる 【育てる】   
 しぜん 【自然】   
 みぶん 【身分】   
-ぶか 【部下】  
+ぶか 【部下】   
+ 
 
 
 ----------------
@@ -77,6 +77,7 @@ __Core 6k +__
 [歓迎](https://ejje.weblio.jp/content/%E6%AD%93%E8%BF%8E) : 【かんげい】, (n, vs), welcome  
 [気楽](https://ejje.weblio.jp/content/%E6%B0%97%E6%A5%BD) : 【きらく】, (adj-na), easygoing, comfortable  
 [無責任](https://ejje.weblio.jp/content/%E7%84%A1%E8%B2%AC%E4%BB%BB) : 【むせきにん】, (adj-na), irresponsibility  
+[無責任](https://ejje.weblio.jp/content/%E7%84%A1%E8%B2%AC%E4%BB%BB) : 【むせきにん】, (adj-na), irresponsibility  
 [生み出す](https://ejje.weblio.jp/content/%E7%94%9F%E3%81%BF%E5%87%BA%E3%81%99) : 【うみだす】, (v), generate, produce  
 [真剣](https://ejje.weblio.jp/content/%E7%9C%9F%E5%89%A3) : 【しんけん】, (adj-i), serious, sincere  
 [確認](https://ejje.weblio.jp/content/%E7%A2%BA%E8%AA%8D) : 【かくにん】, (n, vs), confirmation  
@@ -86,9 +87,9 @@ __Core 6k +__
 [部下](https://ejje.weblio.jp/content/%E9%83%A8%E4%B8%8B) : 【ぶか】, (n), subordinate  
  
 
-__omitted words:__ 17  
+__omitted words:__ 15  
 
-（～た）上で, ～ざるを得ない, ～にしろ～にしろ, ～にしろ～にしろ, 一人前, 上に立つ, 反発を買う, 取り立てる, 口を利く, 影をひそめる, 息がつまる, 気安い, 無（責任）, 築く, 身分, さえ, ふさわしい 
+上で, ざるを得ない, 一人前, 上に立つ, 反発を買う, 取り立てる, 口を利く, 影をひそめる, 息がつまる, 気安い, 築く, 身分, さえ, ふさわしい, にしろ 
 
 
 ----------------
@@ -96,6 +97,7 @@ __omitted words:__ 17
 __jmdict__  
 
 
+[ざるを得ない](https://ejje.weblio.jp/content/%E3%81%96%E3%82%8B%E3%82%92%E5%BE%97%E3%81%AA%E3%81%84) : 【ざるをえない】, (exp adj-i), cannot help (doing)  
 [一人前](https://ejje.weblio.jp/content/%E4%B8%80%E4%BA%BA%E5%89%8D) : 【いちにんまえ】, (n), one portion  
 [取り立てる](https://ejje.weblio.jp/content/%E5%8F%96%E3%82%8A%E7%AB%8B%E3%81%A6%E3%82%8B) : 【とりたてる】, (v1 vt), to collect (debts)  
 [口を利く](https://ejje.weblio.jp/content/%E5%8F%A3%E3%82%92%E5%88%A9%E3%81%8F) : 【くちをきく】, (exp v5k id), to speak  
@@ -104,23 +106,20 @@ __jmdict__
 [築く](https://ejje.weblio.jp/content/%E7%AF%89%E3%81%8F) : 【きずく】, (v5k vt), to build  
 [身分](https://ejje.weblio.jp/content/%E8%BA%AB%E5%88%86) : 【みぶん】, (n), social position  
 [さえ](https://ejje.weblio.jp/content/%E3%81%95%E3%81%88) : 【】, (prt), even  
+[にしろ](https://ejje.weblio.jp/content/%E3%81%AB%E3%81%97%E3%82%8D) : 【】, (exp), though  
 [相応しい](https://ejje.weblio.jp/content/%E7%9B%B8%E5%BF%9C%E3%81%97%E3%81%84) : 【ふさわしい】, (adj-i uk), appropriate  
  
 
-__omitted words:__  8  
+__omitted words:__  4  
 
-（～た）上で, ～ざるを得ない, ～にしろ～にしろ, ～にしろ～にしろ, 上に立つ, 反発を買う, 影をひそめる, 無（責任）  
+上で, 上に立つ, 反発を買う, 影をひそめる  
 
 
 ----------------
 
-[（～た）上で](https://ejje.weblio.jp/content/%EF%BC%88%EF%BD%9E%E3%81%9F%EF%BC%89%E4%B8%8A%E3%81%A7) : 【 】   
-[～ざるを得ない](https://ejje.weblio.jp/content/%EF%BD%9E%E3%81%96%E3%82%8B%E3%82%92%E5%BE%97%E3%81%AA%E3%81%84) : 【 】   
-[～にしろ～にしろ](https://ejje.weblio.jp/content/%EF%BD%9E%E3%81%AB%E3%81%97%E3%82%8D%EF%BD%9E%E3%81%AB%E3%81%97%E3%82%8D) : 【 】   
-[～にしろ～にしろ](https://ejje.weblio.jp/content/%EF%BD%9E%E3%81%AB%E3%81%97%E3%82%8D%EF%BD%9E%E3%81%AB%E3%81%97%E3%82%8D) : 【 】   
+[上で](https://ejje.weblio.jp/content/%E4%B8%8A%E3%81%A7) : 【 】   
 [上に立つ](https://ejje.weblio.jp/content/%E4%B8%8A%E3%81%AB%E7%AB%8B%E3%81%A4) : 【 】   
 [反発を買う](https://ejje.weblio.jp/content/%E5%8F%8D%E7%99%BA%E3%82%92%E8%B2%B7%E3%81%86) : 【 】   
 [影をひそめる](https://ejje.weblio.jp/content/%E5%BD%B1%E3%82%92%E3%81%B2%E3%81%9D%E3%82%81%E3%82%8B) : 【 】   
-[無（責任）](https://ejje.weblio.jp/content/%E7%84%A1%EF%BC%88%E8%B2%AC%E4%BB%BB%EF%BC%89) : 【 】   
   
 

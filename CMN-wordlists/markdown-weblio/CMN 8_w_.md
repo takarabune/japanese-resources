@@ -1,11 +1,11 @@
 ### CMN 8.csv  
   
 
-ようがない 【〜ようがない】   
-ところ 【（～た）ところ】   
-もの 【（男）物】   
-よう 【（男性）用】   
-じまい 【（聞かず）じまい】   
+ようがない    
+ところ    
+もの 【男物】   
+よう 【男性用】   
+じまい 【聞かずじまい】   
 いったい    
 からかう    
 くせに    
@@ -13,10 +13,9 @@
 なるほど    
 リボン    
 わけ    
-とって 【～にとって】   
-にとって 【～にとって】   
+にとって    
 いつのまにか 【いつの間にか】   
-とても 【とても（～ない）】   
+とても    
 なかま 【仲間】   
 からだつき 【体つき】   
 なんとなく 【何となく】   
@@ -44,7 +43,8 @@
 みにつく 【身につく】   
 みにつける 【身につける】   
 かおをそろえる 【顔をそろえる】   
-くびをながくする 【首を長くする】  
+くびをながくする 【首を長くする】   
+ 
 
 
 ----------------
@@ -79,15 +79,17 @@ __Core 6k +__
 [納得](https://ejje.weblio.jp/content/%E7%B4%8D%E5%BE%97) : 【なっとく】, (n, vs), acceptance, persuasion  
 [経験](https://ejje.weblio.jp/content/%E7%B5%8C%E9%A8%93) : 【けいけん】, (n, vs), experience  
 [許可](https://ejje.weblio.jp/content/%E8%A8%B1%E5%8F%AF) : 【きょか】, (n, vs), permission, approval  
+[ところ](https://ejje.weblio.jp/content/%E3%81%A8%E3%81%93%E3%82%8D) : 【ところ】, (n), place  
 [からかう](https://ejje.weblio.jp/content/%E3%81%8B%E3%82%89%E3%81%8B%E3%81%86) : 【からかう】, (v), make fun of, tease  
 [とうとう](https://ejje.weblio.jp/content/%E3%81%A8%E3%81%86%E3%81%A8%E3%81%86) : 【とうとう】, (adv), at last, after all  
 [なるほど](https://ejje.weblio.jp/content/%E3%81%AA%E3%82%8B%E3%81%BB%E3%81%A9) : 【なるほど】, (adv), I see, really  
 [リボン](https://ejje.weblio.jp/content/%E3%83%AA%E3%83%9C%E3%83%B3) : 【リボン】, (n), ribbon  
+[とても](https://ejje.weblio.jp/content/%E3%81%A8%E3%81%A6%E3%82%82) : 【とても】, (adv), very  
  
 
-__omitted words:__ 22  
+__omitted words:__ 19  
 
-〜ようがない, （～た）ところ, （男）物, （男性）用, （聞かず）じまい, ～にとって, ～にとって, いつの間にか, とても（～ない）, 体つき, 共有, 口癖, 時には, 知らず知らずのうちに, 聞かずじまい, 身につく, 身につける, 顔をそろえる, 首を長くする, いったい, くせに, わけ 
+男物, 男性用, 聞かずじまい, いつの間にか, 体つき, 共有, 口癖, 時には, 知らず知らずのうちに, 聞かずじまい, 身につく, 身につける, 顔をそろえる, 首を長くする, ようがない, いったい, くせに, わけ, にとって 
 
 
 ----------------
@@ -95,6 +97,8 @@ __omitted words:__ 22
 __jmdict__  
 
 
+[男物](https://ejje.weblio.jp/content/%E7%94%B7%E7%89%A9) : 【おとこもの】, (n), men's things  
+[男性用](https://ejje.weblio.jp/content/%E7%94%B7%E6%80%A7%E7%94%A8) : 【だんせいよう】, (n), for use by men  
 [いつの間にか](https://ejje.weblio.jp/content/%E3%81%84%E3%81%A4%E3%81%AE%E9%96%93%E3%81%AB%E3%81%8B) : 【いつのまにか】, (adv), before one knows  
 [体つき](https://ejje.weblio.jp/content/%E4%BD%93%E3%81%A4%E3%81%8D) : 【からだつき】, (n), body build  
 [共有](https://ejje.weblio.jp/content/%E5%85%B1%E6%9C%89) : 【きょうゆう】, (n vs), joint ownership  
@@ -107,24 +111,19 @@ __jmdict__
 [一体](https://ejje.weblio.jp/content/%E4%B8%80%E4%BD%93) : 【いったい】, (adv), (what) the heck  
 [癖に](https://ejje.weblio.jp/content/%E7%99%96%E3%81%AB) : 【くせに】, (conj prt uk), and yet  
 [戯奴](https://ejje.weblio.jp/content/%E6%88%AF%E5%A5%B4) : 【わけ】, (n arch hum), me  
+[に取って](https://ejje.weblio.jp/content/%E3%81%AB%E5%8F%96%E3%81%A3%E3%81%A6) : 【にとって】, (exp uk), to  
  
 
-__omitted words:__  10  
+__omitted words:__  4  
 
-〜ようがない, （～た）ところ, （男）物, （男性）用, （聞かず）じまい, ～にとって, ～にとって, とても（～ない）, 知らず知らずのうちに, 聞かずじまい  
+聞かずじまい, 知らず知らずのうちに, 聞かずじまい, ようがない  
 
 
 ----------------
 
-[〜ようがない](https://ejje.weblio.jp/content/%E3%80%9C%E3%82%88%E3%81%86%E3%81%8C%E3%81%AA%E3%81%84) : 【 】   
-[（～た）ところ](https://ejje.weblio.jp/content/%EF%BC%88%EF%BD%9E%E3%81%9F%EF%BC%89%E3%81%A8%E3%81%93%E3%82%8D) : 【 】   
-[（男）物](https://ejje.weblio.jp/content/%EF%BC%88%E7%94%B7%EF%BC%89%E7%89%A9) : 【 】   
-[（男性）用](https://ejje.weblio.jp/content/%EF%BC%88%E7%94%B7%E6%80%A7%EF%BC%89%E7%94%A8) : 【 】   
-[（聞かず）じまい](https://ejje.weblio.jp/content/%EF%BC%88%E8%81%9E%E3%81%8B%E3%81%9A%EF%BC%89%E3%81%98%E3%81%BE%E3%81%84) : 【 】   
-[～にとって](https://ejje.weblio.jp/content/%EF%BD%9E%E3%81%AB%E3%81%A8%E3%81%A3%E3%81%A6) : 【 】   
-[～にとって](https://ejje.weblio.jp/content/%EF%BD%9E%E3%81%AB%E3%81%A8%E3%81%A3%E3%81%A6) : 【 】   
-[とても（～ない）](https://ejje.weblio.jp/content/%E3%81%A8%E3%81%A6%E3%82%82%EF%BC%88%EF%BD%9E%E3%81%AA%E3%81%84%EF%BC%89) : 【 】   
+[聞かずじまい](https://ejje.weblio.jp/content/%E8%81%9E%E3%81%8B%E3%81%9A%E3%81%98%E3%81%BE%E3%81%84) : 【 】   
 [知らず知らずのうちに](https://ejje.weblio.jp/content/%E7%9F%A5%E3%82%89%E3%81%9A%E7%9F%A5%E3%82%89%E3%81%9A%E3%81%AE%E3%81%86%E3%81%A1%E3%81%AB) : 【 】   
 [聞かずじまい](https://ejje.weblio.jp/content/%E8%81%9E%E3%81%8B%E3%81%9A%E3%81%98%E3%81%BE%E3%81%84) : 【 】   
+[ようがない](https://ejje.weblio.jp/content/%E3%82%88%E3%81%86%E3%81%8C%E3%81%AA%E3%81%84) : 【 】   
   
 

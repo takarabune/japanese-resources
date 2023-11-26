@@ -1,16 +1,16 @@
 ### CMN 18.csv  
   
 
-ばかりに 【（～た）ばかりに】   
-てならない 【（～て）ならない】   
-ならない 【（～て）ならない】   
+ばかりに    
+てならない    
+ならない    
 あこがれる    
 いったん    
 かせぐ    
 ふるさと    
-ぽつりと    
-としても 【～としても】   
-ないことには 【～ないことには】   
+ぽつり    
+としても    
+ないことには    
 じじょう 【事情】   
 でんとう 【伝統】   
 すまい 【住まい】   
@@ -24,7 +24,7 @@
 よびもどす 【呼び戻す】   
 ゆうひ 【夕陽】   
 すがたをけす 【姿を消す】   
-しょうしか 【少子（高齢）化】   
+しょうしか 【少子高齢化】   
 しょうしこうれいか 【少子高齢化】   
 しゅうしょく 【就職】   
 おそれ 【恐れ】   
@@ -40,13 +40,14 @@
 かっせいか 【活性化】   
 へる 【減る】   
 ぎょそん 【漁村】   
-かたときも 【片ときも（～ない）】   
+かたときも 【片ときもない】   
 げんじょう 【現状】   
 じちたい 【自治体】   
 あしをはこぶ 【足を運ぶ】   
 のうそん 【農村】   
 きんじょ 【近所】   
-かそ 【過疎】  
+かそ 【過疎】   
+ 
 
 
 ----------------
@@ -83,7 +84,7 @@ __Core 6k +__
 
 __omitted words:__ 30  
 
-（～た）ばかりに, （～て）ならない, （～て）ならない, ～としても, ～ないことには, 何もかも, 先のこと, 口が重い, 呼びかける, 呼び戻す, 夕陽, 姿を消す, 少子（高齢）化, 少子高齢化, 手を打つ, 手遅れ, 押し寄せる, 染まる, 根づく, 活性化, 漁村, 片ときも（～ない）, 自治体, 足を運ぶ, 過疎, あこがれる, いったん, かせぐ, ふるさと, ぽつりと 
+何もかも, 先のこと, 口が重い, 呼びかける, 呼び戻す, 夕陽, 姿を消す, 少子高齢化, 少子高齢化, 手を打つ, 手遅れ, 押し寄せる, 染まる, 根づく, 活性化, 漁村, 片ときもない, 自治体, 足を運ぶ, 過疎, ばかりに, てならない, ならない, あこがれる, いったん, かせぐ, ふるさと, ぽつり, としても, ないことには 
 
 
 ----------------
@@ -98,6 +99,7 @@ __jmdict__
 [夕陽](https://ejje.weblio.jp/content/%E5%A4%95%E9%99%BD) : 【ゆうひ】, (n), evening sun  
 [姿を消す](https://ejje.weblio.jp/content/%E5%A7%BF%E3%82%92%E6%B6%88%E3%81%99) : 【すがたをけす】, (exp v5s id), to disappear  
 [少子高齢化](https://ejje.weblio.jp/content/%E5%B0%91%E5%AD%90%E9%AB%98%E9%BD%A2%E5%8C%96) : 【しょうしこうれいか】, (n), decreasing birthrate and aging population  
+[少子高齢化](https://ejje.weblio.jp/content/%E5%B0%91%E5%AD%90%E9%AB%98%E9%BD%A2%E5%8C%96) : 【しょうしこうれいか】, (n), decreasing birthrate and aging population  
 [手を打つ](https://ejje.weblio.jp/content/%E6%89%8B%E3%82%92%E6%89%93%E3%81%A4) : 【てをうつ】, (exp v5t), to take measures (in face of events being anticipated)  
 [手遅れ](https://ejje.weblio.jp/content/%E6%89%8B%E9%81%85%E3%82%8C) : 【ておくれ】, (n), being too late  
 [押し寄せる](https://ejje.weblio.jp/content/%E6%8A%BC%E3%81%97%E5%AF%84%E3%81%9B%E3%82%8B) : 【おしよせる】, (v1 vi), to advance on  
@@ -108,27 +110,26 @@ __jmdict__
 [自治体](https://ejje.weblio.jp/content/%E8%87%AA%E6%B2%BB%E4%BD%93) : 【じちたい】, (n), municipality  
 [足を運ぶ](https://ejje.weblio.jp/content/%E8%B6%B3%E3%82%92%E9%81%8B%E3%81%B6) : 【あしをはこぶ】, (exp v5b), to go  
 [過疎](https://ejje.weblio.jp/content/%E9%81%8E%E7%96%8E) : 【かそ】, (n adj-no), depopulation  
+[ならない](https://ejje.weblio.jp/content/%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84) : 【】, (exp), cannot help (doing, etc.)  
+[ぽつり](https://ejje.weblio.jp/content/%E3%81%BD%E3%81%A4%E3%82%8A) : 【】, (adv-to adv on-mim), isolated  
+[としても](https://ejje.weblio.jp/content/%E3%81%A8%E3%81%97%E3%81%A6%E3%82%82) : 【】, (exp), even if ...  
+[許りに](https://ejje.weblio.jp/content/%E8%A8%B1%E3%82%8A%E3%81%AB) : 【ばかりに】, (adv uk), (simply) because  
+[て成らない](https://ejje.weblio.jp/content/%E3%81%A6%E6%88%90%E3%82%89%E3%81%AA%E3%81%84) : 【てならない】, (exp adj-i uk), unable to resist  
 [憧れる](https://ejje.weblio.jp/content/%E6%86%A7%E3%82%8C%E3%82%8B) : 【あこがれる】, (v1 vi), to long for  
 [一旦](https://ejje.weblio.jp/content/%E4%B8%80%E6%97%A6) : 【いったん】, (adv uk), once  
 [稼ぐ](https://ejje.weblio.jp/content/%E7%A8%BC%E3%81%90) : 【かせぐ】, (v5g vt), to earn (income)  
 [故郷](https://ejje.weblio.jp/content/%E6%95%85%E9%83%B7) : 【ふるさと】, (n uk), home town  
+[ない事には](https://ejje.weblio.jp/content/%E3%81%AA%E3%81%84%E4%BA%8B%E3%81%AB%E3%81%AF) : 【ないことには】, (exp uk), unless (you do something)  
  
 
-__omitted words:__  9  
+__omitted words:__  2  
 
-（～た）ばかりに, （～て）ならない, （～て）ならない, ～としても, ～ないことには, 先のこと, 少子（高齢）化, 片ときも（～ない）, ぽつりと  
+先のこと, 片ときもない  
 
 
 ----------------
 
-[（～た）ばかりに](https://ejje.weblio.jp/content/%EF%BC%88%EF%BD%9E%E3%81%9F%EF%BC%89%E3%81%B0%E3%81%8B%E3%82%8A%E3%81%AB) : 【 】   
-[（～て）ならない](https://ejje.weblio.jp/content/%EF%BC%88%EF%BD%9E%E3%81%A6%EF%BC%89%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84) : 【 】   
-[（～て）ならない](https://ejje.weblio.jp/content/%EF%BC%88%EF%BD%9E%E3%81%A6%EF%BC%89%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84) : 【 】   
-[～としても](https://ejje.weblio.jp/content/%EF%BD%9E%E3%81%A8%E3%81%97%E3%81%A6%E3%82%82) : 【 】   
-[～ないことには](https://ejje.weblio.jp/content/%EF%BD%9E%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8%E3%81%AB%E3%81%AF) : 【 】   
 [先のこと](https://ejje.weblio.jp/content/%E5%85%88%E3%81%AE%E3%81%93%E3%81%A8) : 【 】   
-[少子（高齢）化](https://ejje.weblio.jp/content/%E5%B0%91%E5%AD%90%EF%BC%88%E9%AB%98%E9%BD%A2%EF%BC%89%E5%8C%96) : 【 】   
-[片ときも（～ない）](https://ejje.weblio.jp/content/%E7%89%87%E3%81%A8%E3%81%8D%E3%82%82%EF%BC%88%EF%BD%9E%E3%81%AA%E3%81%84%EF%BC%89) : 【 】   
-[ぽつりと](https://ejje.weblio.jp/content/%E3%81%BD%E3%81%A4%E3%82%8A%E3%81%A8) : 【 】   
+[片ときもない](https://ejje.weblio.jp/content/%E7%89%87%E3%81%A8%E3%81%8D%E3%82%82%E3%81%AA%E3%81%84) : 【 】   
   
 

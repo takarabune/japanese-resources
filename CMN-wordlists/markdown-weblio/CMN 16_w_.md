@@ -1,10 +1,10 @@
 ### CMN 16.csv  
   
 
-なり 【〜なり】   
-がち 【（えんりょ）がち】   
-じょう 【（立場） 上】   
-がたい 【（耐え）難い】   
+なり 【なり】   
+がち 【えんりょがち】   
+じょう 【立場 上】   
+がたい 【耐え難い】   
 えんりよ    
 えんりょがち    
 がんばる    
@@ -12,11 +12,11 @@
 なじむ    
 はげます    
 よそ    
-かねる 【～かねる】   
-ては 【～ては】   
-ところ 【～ところ】   
-にちがいない 【～に違いない】   
-ものだから 【～ものだから】   
+かねる 【かねる】   
+ては 【ては】   
+ところ 【ところ】   
+にちがいない 【に違いない】   
+ものだから 【ものだから】   
 わかちあう 【分かち合う】   
 ゆうきづける 【勇気づける】   
 さんか 【参加】   
@@ -59,6 +59,7 @@ __Glossary:__
 __Core 6k +__  
 
 
+[ところ](https://ejje.weblio.jp/content/%E3%81%A8%E3%81%93%E3%82%8D) : 【ところ】, (n), place  
 [参加](https://ejje.weblio.jp/content/%E5%8F%82%E5%8A%A0) : 【さんか】, (n, vs), participation  
 [向ける](https://ejje.weblio.jp/content/%E5%90%91%E3%81%91%E3%82%8B) : 【むける】, (v), turn toward, point at  
 [夢](https://ejje.weblio.jp/content/%E5%A4%A2) : 【ゆめ】, (n), dream  
@@ -78,9 +79,9 @@ __Core 6k +__
 [よそ](https://ejje.weblio.jp/content/%E3%82%88%E3%81%9D) : 【よそ】, (n), somewhere else  
  
 
-__omitted words:__ 25  
+__omitted words:__ 24  
 
-〜なり, （えんりょ）がち, （立場） 上, （耐え）難い, ～かねる, ～ては, ～ところ, ～に違いない, ～ものだから, 分かち合う, 勇気づける, 声をそろえる, 声を合わせる, 気づく, 汗を流す, 白ける, 童謡, 自, 見知らぬ, 間がある, えんりよ, えんりょがち, がんばる, なじむ, はげます 
+なり, えんりょがち, 立場 上, 耐え難い, かねる, ては, に違いない, ものだから, 分かち合う, 勇気づける, 声をそろえる, 声を合わせる, 気づく, 汗を流す, 白ける, 童謡, 自, 見知らぬ, 間がある, えんりよ, えんりょがち, がんばる, なじむ, はげます 
 
 
 ----------------
@@ -88,6 +89,10 @@ __omitted words:__ 25
 __jmdict__  
 
 
+[なり](https://ejje.weblio.jp/content/%E3%81%AA%E3%82%8A) : 【】, (prt), or something  
+[耐え難い](https://ejje.weblio.jp/content/%E8%80%90%E3%81%88%E9%9B%A3%E3%81%84) : 【たえがたい】, (adj-i), unbearable  
+[ては](https://ejje.weblio.jp/content/%E3%81%A6%E3%81%AF) : 【】, (exp), if (an action, etc.)  
+[ものだから](https://ejje.weblio.jp/content/%E3%82%82%E3%81%AE%E3%81%A0%E3%81%8B%E3%82%89) : 【】, (conj), the reason for something  
 [分かち合う](https://ejje.weblio.jp/content/%E5%88%86%E3%81%8B%E3%81%A1%E5%90%88%E3%81%86) : 【わかちあう】, (v5u vt), to share  
 [勇気づける](https://ejje.weblio.jp/content/%E5%8B%87%E6%B0%97%E3%81%A5%E3%81%91%E3%82%8B) : 【ゆうきづける】, (v1 vt), to encourage  
 [気づく](https://ejje.weblio.jp/content/%E6%B0%97%E3%81%A5%E3%81%8F) : 【きづく】, (v5k vi), to notice  
@@ -97,27 +102,22 @@ __jmdict__
 [自](https://ejje.weblio.jp/content/%E8%87%AA) : 【じ】, (pref), self-  
 [見知らぬ](https://ejje.weblio.jp/content/%E8%A6%8B%E7%9F%A5%E3%82%89%E3%81%AC) : 【みしらぬ】, (adj-pn), strange  
 [遠慮がち](https://ejje.weblio.jp/content/%E9%81%A0%E6%85%AE%E3%81%8C%E3%81%A1) : 【えんりょがち】, (adj-na), shy  
+[兼ねる](https://ejje.weblio.jp/content/%E5%85%BC%E3%81%AD%E3%82%8B) : 【かねる】, (suf v1 uk), to be unable to  
+[遠慮がち](https://ejje.weblio.jp/content/%E9%81%A0%E6%85%AE%E3%81%8C%E3%81%A1) : 【えんりょがち】, (adj-na), shy  
 [頑張る](https://ejje.weblio.jp/content/%E9%A0%91%E5%BC%B5%E3%82%8B) : 【がんばる】, (v5r vi), to persevere  
 [馴染む](https://ejje.weblio.jp/content/%E9%A6%B4%E6%9F%93%E3%82%80) : 【なじむ】, (v5m vi), to become familiar with  
 [励ます](https://ejje.weblio.jp/content/%E5%8A%B1%E3%81%BE%E3%81%99) : 【はげます】, (v5s vt), to encourage  
  
 
-__omitted words:__  13  
+__omitted words:__  6  
 
-〜なり, （えんりょ）がち, （立場） 上, （耐え）難い, ～かねる, ～ては, ～ところ, ～に違いない, ～ものだから, 声をそろえる, 声を合わせる, 間がある, えんりよ  
+立場 上, に違いない, 声をそろえる, 声を合わせる, 間がある, えんりよ  
 
 
 ----------------
 
-[〜なり](https://ejje.weblio.jp/content/%E3%80%9C%E3%81%AA%E3%82%8A) : 【 】   
-[（えんりょ）がち](https://ejje.weblio.jp/content/%EF%BC%88%E3%81%88%E3%82%93%E3%82%8A%E3%82%87%EF%BC%89%E3%81%8C%E3%81%A1) : 【 】   
-[（立場） 上](https://ejje.weblio.jp/content/%EF%BC%88%E7%AB%8B%E5%A0%B4%EF%BC%89%20%E4%B8%8A) : 【 】   
-[（耐え）難い](https://ejje.weblio.jp/content/%EF%BC%88%E8%80%90%E3%81%88%EF%BC%89%E9%9B%A3%E3%81%84) : 【 】   
-[～かねる](https://ejje.weblio.jp/content/%EF%BD%9E%E3%81%8B%E3%81%AD%E3%82%8B) : 【 】   
-[～ては](https://ejje.weblio.jp/content/%EF%BD%9E%E3%81%A6%E3%81%AF) : 【 】   
-[～ところ](https://ejje.weblio.jp/content/%EF%BD%9E%E3%81%A8%E3%81%93%E3%82%8D) : 【 】   
-[～に違いない](https://ejje.weblio.jp/content/%EF%BD%9E%E3%81%AB%E9%81%95%E3%81%84%E3%81%AA%E3%81%84) : 【 】   
-[～ものだから](https://ejje.weblio.jp/content/%EF%BD%9E%E3%82%82%E3%81%AE%E3%81%A0%E3%81%8B%E3%82%89) : 【 】   
+[立場 上](https://ejje.weblio.jp/content/%E7%AB%8B%E5%A0%B4%20%E4%B8%8A) : 【 】   
+[に違いない](https://ejje.weblio.jp/content/%E3%81%AB%E9%81%95%E3%81%84%E3%81%AA%E3%81%84) : 【 】   
 [声をそろえる](https://ejje.weblio.jp/content/%E5%A3%B0%E3%82%92%E3%81%9D%E3%82%8D%E3%81%88%E3%82%8B) : 【 】   
 [声を合わせる](https://ejje.weblio.jp/content/%E5%A3%B0%E3%82%92%E5%90%88%E3%82%8F%E3%81%9B%E3%82%8B) : 【 】   
 [間がある](https://ejje.weblio.jp/content/%E9%96%93%E3%81%8C%E3%81%82%E3%82%8B) : 【 】   
