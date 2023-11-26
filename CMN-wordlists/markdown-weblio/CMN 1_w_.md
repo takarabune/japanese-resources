@@ -23,7 +23,7 @@
 
 __discrete kanji in list:__ 16 
 
-手(2) 口(2) 学(1) 始(1) 止(1) 面(1) 日(1) 相(1) 親(1) 化(1) 場(1) 広(1) 心(1) 文(1) 出(1) 配(1)
+手 口 場 化 日 文 止 出 相 配 親 学 心 広 面 始
 
 ----------------
   
@@ -42,11 +42,13 @@ __Core 6k +__
 [相手](https://ejje.weblio.jp/content/%E7%9B%B8%E6%89%8B) : 【あいて】, (n), opponent  
 [親](https://ejje.weblio.jp/content/%E8%A6%AA) : 【おや】, (n), parent  
 [いけない](https://ejje.weblio.jp/content/%E3%81%84%E3%81%91%E3%81%AA%E3%81%84) : 【いけない】, (adj-i), wrong, must not  
+[ある（日）](https://ejje.weblio.jp/content/%E3%81%82%E3%82%8B%EF%BC%88%E6%97%A5%EF%BC%89) : 【ある（ひ）】, (phrase), one day  
+[手を止める](https://ejje.weblio.jp/content/%E6%89%8B%E3%82%92%E6%AD%A2%E3%82%81%E3%82%8B) : 【てをとめる】, (phrase), stop doing  
  
 
-__omitted words:__ 6  
+__omitted words:__ 4  
 
-ある（日）, 口々に, 口を出す, 手を止める, そこで, なぞなぞ 
+口々に, 口を出す, そこで, なぞなぞ 
 
 
 ----------------
@@ -60,14 +62,12 @@ __jmdict__
 [謎々](https://ejje.weblio.jp/content/%E8%AC%8E%E3%80%85) : 【なぞなぞ】, (n uk), riddle  
  
 
-__omitted words:__  2  
+__omitted words:__  0  
 
-ある（日）, 手を止める  
+  
 
 
 ----------------
 
-[ある（日）](https://ejje.weblio.jp/content/%E3%81%82%E3%82%8B%EF%BC%88%E6%97%A5%EF%BC%89) : 【 】   
-[手を止める](https://ejje.weblio.jp/content/%E6%89%8B%E3%82%92%E6%AD%A2%E3%82%81%E3%82%8B) : 【 】   
   
 
